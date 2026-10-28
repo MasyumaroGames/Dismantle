@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:amethyst_block"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  }
+}

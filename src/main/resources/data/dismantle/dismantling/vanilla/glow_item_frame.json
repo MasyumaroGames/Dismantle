@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:glow_item_frame"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:item_frame"
+    },
+    "B": {
+      "item": "minecraft:glow_ink_sac"
+    }
+  }
+}

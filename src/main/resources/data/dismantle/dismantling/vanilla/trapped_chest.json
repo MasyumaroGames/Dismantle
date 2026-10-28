@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:trapped_chest"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:chest"
+    },
+    "B": {
+      "item": "minecraft:tripwire_hook"
+    }
+  }
+}

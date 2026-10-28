@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:diamond_block"
+  },
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:diamond"
+    }
+  }
+}

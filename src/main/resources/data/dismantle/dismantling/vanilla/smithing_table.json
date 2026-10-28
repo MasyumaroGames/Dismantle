@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:smithing_table"
+  },
+  "pattern": [
+    "AA",
+    "BB",
+    "BB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:oak_planks"
+    }
+  }
+}

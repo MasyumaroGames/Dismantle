@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:bowl"
+  },
+  "input_count": 4,
+  "pattern": [
+    "A A",
+    " A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_planks"
+    }
+  }
+}

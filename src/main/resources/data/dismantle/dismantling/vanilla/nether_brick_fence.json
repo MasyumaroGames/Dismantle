@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:nether_brick_fence"
+  },
+  "input_count": 6,
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:nether_bricks"
+    },
+    "B": {
+      "item": "minecraft:nether_brick"
+    }
+  }
+}

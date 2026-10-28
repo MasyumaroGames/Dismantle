@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:leather_leggings"
+  },
+  "pattern": [
+    "AAA",
+    "A A",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:leather"
+    }
+  }
+}

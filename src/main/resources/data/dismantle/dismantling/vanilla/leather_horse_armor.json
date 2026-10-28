@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:leather_horse_armor"
+  },
+  "pattern": [
+    "A A",
+    "AAA",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:leather"
+    }
+  }
+}

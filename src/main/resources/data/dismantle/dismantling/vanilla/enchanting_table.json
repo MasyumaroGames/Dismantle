@@ -1,0 +1,21 @@
+{
+  "input": {
+    "item": "minecraft:enchanting_table"
+  },
+  "pattern": [
+    " A",
+    "BCB",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:book"
+    },
+    "B": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "minecraft:obsidian"
+    }
+  }
+}

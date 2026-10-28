@@ -1,0 +1,17 @@
+{
+  "input": {
+    "item": "minecraft:loom"
+  },
+  "pattern": [
+    "AA",
+    "BB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:string"
+    },
+    "B": {
+      "item": "minecraft:oak_planks"
+    }
+  }
+}

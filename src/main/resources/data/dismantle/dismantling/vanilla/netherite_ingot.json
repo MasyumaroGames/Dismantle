@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "pattern": [
+    "AAA",
+    "ABB",
+    "BB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "B": {
+      "item": "minecraft:gold_ingot"
+    }
+  }
+}

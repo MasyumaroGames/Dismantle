@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:exposed_cut_copper_slab"
+  },
+  "input_count": 6,
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:exposed_cut_copper"
+    }
+  }
+}

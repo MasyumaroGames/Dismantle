@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:white_wool"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:string"
+    }
+  }
+}

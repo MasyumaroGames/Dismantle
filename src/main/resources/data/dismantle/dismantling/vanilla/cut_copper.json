@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:cut_copper"
+  },
+  "input_count": 4,
+  "pattern": [
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:copper_block"
+    }
+  }
+}

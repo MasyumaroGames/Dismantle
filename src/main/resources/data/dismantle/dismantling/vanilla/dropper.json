@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:dropper"
+  },
+  "pattern": [
+    "AAA",
+    "A A",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cobblestone"
+    },
+    "B": {
+      "item": "minecraft:redstone"
+    }
+  }
+}

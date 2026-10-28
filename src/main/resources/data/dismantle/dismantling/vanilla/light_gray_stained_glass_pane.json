@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:light_gray_stained_glass_pane"
+  },
+  "input_count": 16,
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:light_gray_stained_glass"
+    }
+  }
+}

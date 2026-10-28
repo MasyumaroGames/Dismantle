@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:crimson_trapdoor"
+  },
+  "input_count": 2,
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:crimson_planks"
+    }
+  }
+}

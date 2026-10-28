@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:red_nether_brick_wall"
+  },
+  "input_count": 6,
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:red_nether_bricks"
+    }
+  }
+}

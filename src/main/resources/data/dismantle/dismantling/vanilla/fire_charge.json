@@ -1,0 +1,20 @@
+{
+  "input": {
+    "item": "minecraft:fire_charge"
+  },
+  "input_count": 3,
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gunpowder"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "C": {
+      "item": "minecraft:coal"
+    }
+  }
+}

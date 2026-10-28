@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:mossy_cobblestone"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cobblestone"
+    },
+    "B": {
+      "item": "minecraft:moss_block"
+    }
+  }
+}

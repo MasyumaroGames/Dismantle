@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:cherry_sign"
+  },
+  "input_count": 3,
+  "pattern": [
+    "AAA",
+    "AAA",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cherry_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

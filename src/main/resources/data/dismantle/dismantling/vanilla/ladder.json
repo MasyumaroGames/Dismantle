@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:ladder"
+  },
+  "input_count": 3,
+  "pattern": [
+    "A A",
+    "AAA",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:muddy_mangrove_roots"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:mud"
+    },
+    "B": {
+      "item": "minecraft:mangrove_roots"
+    }
+  }
+}

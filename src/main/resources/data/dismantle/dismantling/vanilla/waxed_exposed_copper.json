@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:waxed_exposed_copper"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:exposed_copper"
+    },
+    "B": {
+      "item": "minecraft:honeycomb"
+    }
+  }
+}

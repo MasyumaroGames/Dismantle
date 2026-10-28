@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:end_stone_bricks"
+  },
+  "input_count": 4,
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:end_stone"
+    }
+  }
+}

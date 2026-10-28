@@ -1,0 +1,17 @@
+{
+  "input": {
+    "item": "minecraft:orange_bed"
+  },
+  "pattern": [
+    "AAA",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:orange_wool"
+    },
+    "B": {
+      "item": "minecraft:oak_planks"
+    }
+  }
+}

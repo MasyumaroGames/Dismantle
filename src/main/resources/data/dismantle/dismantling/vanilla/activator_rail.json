@@ -1,0 +1,22 @@
+{
+  "input": {
+    "item": "minecraft:activator_rail"
+  },
+  "input_count": 6,
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "minecraft:redstone_torch"
+    }
+  }
+}

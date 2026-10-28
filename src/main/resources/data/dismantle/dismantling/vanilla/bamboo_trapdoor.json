@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:bamboo_trapdoor"
+  },
+  "input_count": 2,
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:bamboo_planks"
+    }
+  }
+}

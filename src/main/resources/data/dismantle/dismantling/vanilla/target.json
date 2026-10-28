@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:target"
+  },
+  "pattern": [
+    " A",
+    "ABA",
+    " A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "minecraft:hay_block"
+    }
+  }
+}

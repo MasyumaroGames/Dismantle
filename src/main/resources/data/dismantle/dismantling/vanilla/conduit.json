@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:conduit"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "B": {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  }
+}

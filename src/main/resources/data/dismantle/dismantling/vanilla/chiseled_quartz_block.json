@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:chiseled_quartz_block"
+  },
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:quartz_slab"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "input": {
+    "item": "minecraft:blast_furnace"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:furnace"
+    },
+    "C": {
+      "item": "minecraft:smooth_stone"
+    }
+  }
+}

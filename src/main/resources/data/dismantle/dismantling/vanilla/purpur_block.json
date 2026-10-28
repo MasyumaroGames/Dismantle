@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:purpur_block"
+  },
+  "input_count": 4,
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:popped_chorus_fruit"
+    }
+  }
+}

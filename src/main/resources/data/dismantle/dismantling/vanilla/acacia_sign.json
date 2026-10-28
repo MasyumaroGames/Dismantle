@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:acacia_sign"
+  },
+  "input_count": 3,
+  "pattern": [
+    "AAA",
+    "AAA",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:acacia_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

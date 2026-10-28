@@ -1,0 +1,20 @@
+{
+  "input": {
+    "item": "minecraft:magenta_dye"
+  },
+  "input_count": 3,
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blue_dye"
+    },
+    "B": {
+      "item": "minecraft:red_dye"
+    },
+    "C": {
+      "item": "minecraft:pink_dye"
+    }
+  }
+}

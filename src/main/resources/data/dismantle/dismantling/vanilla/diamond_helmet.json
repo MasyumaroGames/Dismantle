@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "pattern": [
+    "AAA",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:diamond"
+    }
+  }
+}

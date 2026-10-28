@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:nether_bricks"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:nether_brick"
+    }
+  }
+}

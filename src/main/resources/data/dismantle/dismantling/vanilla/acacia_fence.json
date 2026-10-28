@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:acacia_fence"
+  },
+  "input_count": 3,
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:acacia_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:map"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:paper"
+    },
+    "B": {
+      "item": "minecraft:compass"
+    }
+  }
+}

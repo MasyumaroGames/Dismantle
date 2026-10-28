@@ -1,0 +1,17 @@
+{
+  "input": {
+    "item": "minecraft:stonecutter"
+  },
+  "pattern": [
+    " A",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:stone"
+    }
+  }
+}

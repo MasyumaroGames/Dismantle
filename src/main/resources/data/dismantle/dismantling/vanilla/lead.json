@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:lead"
+  },
+  "input_count": 2,
+  "pattern": [
+    "AA",
+    "AB",
+    "  A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:string"
+    },
+    "B": {
+      "item": "minecraft:slime_ball"
+    }
+  }
+}

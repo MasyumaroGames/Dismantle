@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:clock"
+  },
+  "pattern": [
+    " A",
+    "ABA",
+    " A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "minecraft:redstone"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "input": {
+    "item": "minecraft:oak_fence_gate"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:oak_planks"
+    }
+  }
+}

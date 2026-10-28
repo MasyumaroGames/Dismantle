@@ -1,0 +1,21 @@
+{
+  "input": {
+    "item": "minecraft:brush"
+  },
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:feather"
+    },
+    "B": {
+      "item": "minecraft:copper_ingot"
+    },
+    "C": {
+      "item": "minecraft:stick"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:scaffolding"
+  },
+  "input_count": 6,
+  "pattern": [
+    "ABA",
+    "A A",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:bamboo"
+    },
+    "B": {
+      "item": "minecraft:string"
+    }
+  }
+}

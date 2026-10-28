@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:bamboo_mosaic"
+  },
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:bamboo_slab"
+    }
+  }
+}

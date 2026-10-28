@@ -1,0 +1,17 @@
+{
+  "input": {
+    "item": "minecraft:light_gray_dye"
+  },
+  "input_count": 3,
+  "pattern": [
+    "ABB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:black_dye"
+    },
+    "B": {
+      "item": "minecraft:white_dye"
+    }
+  }
+}

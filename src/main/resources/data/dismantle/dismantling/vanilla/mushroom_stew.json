@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:mushroom_stew"
+  },
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "B": {
+      "item": "minecraft:red_mushroom"
+    },
+    "C": {
+      "item": "minecraft:bowl"
+    }
+  }
+}

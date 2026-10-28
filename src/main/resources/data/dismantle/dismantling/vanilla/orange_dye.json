@@ -1,0 +1,17 @@
+{
+  "input": {
+    "item": "minecraft:orange_dye"
+  },
+  "input_count": 2,
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:red_dye"
+    },
+    "B": {
+      "item": "minecraft:yellow_dye"
+    }
+  }
+}

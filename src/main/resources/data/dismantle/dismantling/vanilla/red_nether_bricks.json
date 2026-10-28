@@ -1,0 +1,17 @@
+{
+  "input": {
+    "item": "minecraft:red_nether_bricks"
+  },
+  "pattern": [
+    "AB",
+    "BA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:nether_brick"
+    },
+    "B": {
+      "item": "minecraft:nether_wart"
+    }
+  }
+}

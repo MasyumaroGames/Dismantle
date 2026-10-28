@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:paper"
+  },
+  "input_count": 3,
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:sugar_cane"
+    }
+  }
+}

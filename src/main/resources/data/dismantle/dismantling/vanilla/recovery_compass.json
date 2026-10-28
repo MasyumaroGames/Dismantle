@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:recovery_compass"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:echo_shard"
+    },
+    "B": {
+      "item": "minecraft:compass"
+    }
+  }
+}

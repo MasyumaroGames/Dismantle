@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:wooden_pickaxe"
+  },
+  "pattern": [
+    "AAA",
+    " B",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

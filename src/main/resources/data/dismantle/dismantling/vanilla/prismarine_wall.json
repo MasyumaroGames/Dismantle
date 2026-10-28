@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:prismarine_wall"
+  },
+  "input_count": 6,
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:prismarine"
+    }
+  }
+}

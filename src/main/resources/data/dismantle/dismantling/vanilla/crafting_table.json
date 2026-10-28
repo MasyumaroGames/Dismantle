@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:crafting_table"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_planks"
+    }
+  }
+}

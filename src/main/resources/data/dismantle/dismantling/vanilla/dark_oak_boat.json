@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:dark_oak_boat"
+  },
+  "pattern": [
+    "A A",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:dark_oak_planks"
+    }
+  }
+}

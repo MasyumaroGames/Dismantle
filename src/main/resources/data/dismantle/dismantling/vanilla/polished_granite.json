@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:polished_granite"
+  },
+  "input_count": 4,
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:granite"
+    }
+  }
+}

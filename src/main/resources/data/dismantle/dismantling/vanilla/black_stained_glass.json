@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:black_stained_glass"
+  },
+  "input_count": 8,
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:glass"
+    },
+    "B": {
+      "item": "minecraft:black_dye"
+    }
+  }
+}

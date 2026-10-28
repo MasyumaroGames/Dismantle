@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:dried_kelp_block"
+  },
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:dried_kelp"
+    }
+  }
+}

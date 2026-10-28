@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:shield"
+  },
+  "pattern": [
+    "ABA",
+    "AAA",
+    " A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    }
+  }
+}

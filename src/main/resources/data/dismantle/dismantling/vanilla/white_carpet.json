@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:white_carpet"
+  },
+  "input_count": 3,
+  "pattern": [
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:white_wool"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:compass"
+  },
+  "pattern": [
+    " A",
+    "ABA",
+    " A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:redstone"
+    }
+  }
+}

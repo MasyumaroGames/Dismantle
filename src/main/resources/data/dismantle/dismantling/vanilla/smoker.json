@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:smoker"
+  },
+  "pattern": [
+    " A",
+    "ABA",
+    " A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_log"
+    },
+    "B": {
+      "item": "minecraft:furnace"
+    }
+  }
+}

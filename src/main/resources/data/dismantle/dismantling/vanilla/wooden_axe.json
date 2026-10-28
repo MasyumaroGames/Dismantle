@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:wooden_axe"
+  },
+  "pattern": [
+    "AA",
+    "AB",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

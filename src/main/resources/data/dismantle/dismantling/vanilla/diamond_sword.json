@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:diamond_sword"
+  },
+  "pattern": [
+    "A",
+    "A",
+    "B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:diamond"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "input": {
+    "item": "minecraft:detector_rail"
+  },
+  "input_count": 6,
+  "pattern": [
+    "A A",
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:stone_pressure_plate"
+    },
+    "C": {
+      "item": "minecraft:redstone"
+    }
+  }
+}

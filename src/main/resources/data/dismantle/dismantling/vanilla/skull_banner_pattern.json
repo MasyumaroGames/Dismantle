@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:skull_banner_pattern"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:paper"
+    },
+    "B": {
+      "item": "minecraft:wither_skeleton_skull"
+    }
+  }
+}

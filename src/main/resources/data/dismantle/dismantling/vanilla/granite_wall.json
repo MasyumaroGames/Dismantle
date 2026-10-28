@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:granite_wall"
+  },
+  "input_count": 6,
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:granite"
+    }
+  }
+}

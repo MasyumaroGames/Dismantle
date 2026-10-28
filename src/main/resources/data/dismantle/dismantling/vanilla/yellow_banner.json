@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:yellow_banner"
+  },
+  "pattern": [
+    "AAA",
+    "AAA",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:yellow_wool"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

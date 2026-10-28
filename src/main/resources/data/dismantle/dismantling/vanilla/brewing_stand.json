@@ -1,0 +1,17 @@
+{
+  "input": {
+    "item": "minecraft:brewing_stand"
+  },
+  "pattern": [
+    " A",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blaze_rod"
+    },
+    "B": {
+      "item": "minecraft:cobblestone"
+    }
+  }
+}

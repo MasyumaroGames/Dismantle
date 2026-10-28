@@ -1,0 +1,13 @@
+{
+  "input": {
+    "item": "minecraft:cherry_pressure_plate"
+  },
+  "pattern": [
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cherry_planks"
+    }
+  }
+}

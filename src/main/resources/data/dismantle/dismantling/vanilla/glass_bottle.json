@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:glass_bottle"
+  },
+  "input_count": 3,
+  "pattern": [
+    "A A",
+    " A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:glass"
+    }
+  }
+}

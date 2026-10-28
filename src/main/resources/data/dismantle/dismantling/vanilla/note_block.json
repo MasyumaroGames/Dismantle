@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:note_block"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "minecraft:redstone"
+    }
+  }
+}

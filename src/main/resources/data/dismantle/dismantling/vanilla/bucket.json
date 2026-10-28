@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:bucket"
+  },
+  "pattern": [
+    "A A",
+    " A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    }
+  }
+}

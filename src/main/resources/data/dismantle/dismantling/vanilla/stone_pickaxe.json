@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:stone_pickaxe"
+  },
+  "pattern": [
+    "AAA",
+    " B",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cobblestone"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

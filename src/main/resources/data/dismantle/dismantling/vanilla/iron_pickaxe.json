@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "pattern": [
+    "AAA",
+    " B",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:cut_red_sandstone_slab"
+  },
+  "input_count": 6,
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cut_red_sandstone"
+    }
+  }
+}

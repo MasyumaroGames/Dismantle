@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:snow_block"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:snowball"
+    }
+  }
+}

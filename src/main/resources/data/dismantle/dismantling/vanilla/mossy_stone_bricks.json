@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:mossy_stone_bricks"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stone_bricks"
+    },
+    "B": {
+      "item": "minecraft:moss_block"
+    }
+  }
+}

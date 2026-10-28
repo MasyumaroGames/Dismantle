@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:hopper_minecart"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:hopper"
+    },
+    "B": {
+      "item": "minecraft:minecart"
+    }
+  }
+}

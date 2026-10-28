@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:flint_and_steel"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:flint"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:quartz_pillar"
+  },
+  "input_count": 2,
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:quartz_block"
+    }
+  }
+}

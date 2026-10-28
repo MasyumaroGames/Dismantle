@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:ender_chest"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:obsidian"
+    },
+    "B": {
+      "item": "minecraft:ender_eye"
+    }
+  }
+}

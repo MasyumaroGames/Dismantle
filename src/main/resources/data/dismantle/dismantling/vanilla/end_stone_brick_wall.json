@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:end_stone_brick_wall"
+  },
+  "input_count": 6,
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:end_stone_bricks"
+    }
+  }
+}

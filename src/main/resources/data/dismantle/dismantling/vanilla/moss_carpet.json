@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:moss_carpet"
+  },
+  "input_count": 3,
+  "pattern": [
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:moss_block"
+    }
+  }
+}

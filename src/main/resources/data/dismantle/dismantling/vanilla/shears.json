@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:shears"
+  },
+  "pattern": [
+    " A",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    }
+  }
+}

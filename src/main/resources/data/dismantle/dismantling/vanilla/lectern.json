@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:lectern"
+  },
+  "pattern": [
+    "AAA",
+    " B",
+    " A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_slab"
+    },
+    "B": {
+      "item": "minecraft:bookshelf"
+    }
+  }
+}

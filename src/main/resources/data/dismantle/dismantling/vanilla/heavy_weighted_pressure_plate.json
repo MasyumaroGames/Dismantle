@@ -1,0 +1,13 @@
+{
+  "input": {
+    "item": "minecraft:heavy_weighted_pressure_plate"
+  },
+  "pattern": [
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    }
+  }
+}

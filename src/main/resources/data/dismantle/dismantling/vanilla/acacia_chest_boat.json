@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:acacia_chest_boat"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:chest"
+    },
+    "B": {
+      "item": "minecraft:acacia_boat"
+    }
+  }
+}

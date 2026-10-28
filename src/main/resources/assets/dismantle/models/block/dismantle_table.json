@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "dismantle:block/dismantle_table_side",
+    "top": "dismantle:block/dismantle_table_top",
+    "side": "dismantle:block/dismantle_table_side",
+    "bottom": "dismantle:block/dismantle_table_bottom"
+  },
+  "elements": [
+    {
+      "from": [0, 11, 0], "to": [16, 16, 16],
+      "faces": {
+        "up":    { "texture": "#top" },
+        "down":  { "texture": "#bottom" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "east":  { "texture": "#side" },
+        "west":  { "texture": "#side" }
+      }
+    },
+    {
+      "from": [2, 2, 2], "to": [14, 11, 14],
+      "faces": {
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "east":  { "texture": "#side" },
+        "west":  { "texture": "#side" }
+      }
+    },
+    {
+      "from": [1, 0, 1], "to": [15, 2, 15],
+      "faces": {
+        "up":    { "texture": "#bottom" },
+        "down":  { "texture": "#bottom" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "east":  { "texture": "#side" },
+        "west":  { "texture": "#side" }
+      }
+    }
+  ]
+}

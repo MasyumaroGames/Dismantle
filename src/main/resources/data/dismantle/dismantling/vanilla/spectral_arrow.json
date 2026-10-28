@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:spectral_arrow"
+  },
+  "input_count": 2,
+  "pattern": [
+    " A",
+    "ABA",
+    " A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "B": {
+      "item": "minecraft:arrow"
+    }
+  }
+}

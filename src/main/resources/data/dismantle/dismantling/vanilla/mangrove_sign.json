@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:mangrove_sign"
+  },
+  "input_count": 3,
+  "pattern": [
+    "AAA",
+    "AAA",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

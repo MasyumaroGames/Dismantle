@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:diamond_chestplate"
+  },
+  "pattern": [
+    "A A",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:diamond"
+    }
+  }
+}

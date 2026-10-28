@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:tnt_minecart"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:tnt"
+    },
+    "B": {
+      "item": "minecraft:minecart"
+    }
+  }
+}

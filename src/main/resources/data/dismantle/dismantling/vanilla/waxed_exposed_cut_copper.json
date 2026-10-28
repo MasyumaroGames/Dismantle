@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:waxed_exposed_cut_copper"
+  },
+  "input_count": 4,
+  "pattern": [
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:waxed_exposed_copper"
+    }
+  }
+}

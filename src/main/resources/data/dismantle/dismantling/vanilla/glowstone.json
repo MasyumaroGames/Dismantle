@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:glowstone"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:glowstone_dust"
+    }
+  }
+}

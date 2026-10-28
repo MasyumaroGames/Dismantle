@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:chest"
+  },
+  "pattern": [
+    "AAA",
+    "A A",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_planks"
+    }
+  }
+}

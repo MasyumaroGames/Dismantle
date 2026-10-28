@@ -1,0 +1,21 @@
+{
+  "input": {
+    "item": "minecraft:campfire"
+  },
+  "pattern": [
+    " A",
+    "ABA",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:coal"
+    },
+    "C": {
+      "item": "minecraft:oak_log"
+    }
+  }
+}

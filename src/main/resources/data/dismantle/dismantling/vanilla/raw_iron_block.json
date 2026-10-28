@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:raw_iron_block"
+  },
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:raw_iron"
+    }
+  }
+}

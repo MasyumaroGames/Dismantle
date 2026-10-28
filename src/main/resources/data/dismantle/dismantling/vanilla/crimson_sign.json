@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:crimson_sign"
+  },
+  "input_count": 3,
+  "pattern": [
+    "AAA",
+    "AAA",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:crimson_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:beehive"
+  },
+  "pattern": [
+    "AAA",
+    "BBB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "minecraft:honeycomb"
+    }
+  }
+}

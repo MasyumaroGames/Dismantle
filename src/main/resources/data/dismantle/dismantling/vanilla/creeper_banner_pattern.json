@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:creeper_banner_pattern"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:paper"
+    },
+    "B": {
+      "item": "minecraft:creeper_head"
+    }
+  }
+}

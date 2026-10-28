@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:writable_book"
+  },
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:book"
+    },
+    "B": {
+      "item": "minecraft:ink_sac"
+    },
+    "C": {
+      "item": "minecraft:feather"
+    }
+  }
+}

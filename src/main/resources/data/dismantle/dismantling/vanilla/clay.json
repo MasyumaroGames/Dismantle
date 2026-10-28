@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:clay"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:clay_ball"
+    }
+  }
+}

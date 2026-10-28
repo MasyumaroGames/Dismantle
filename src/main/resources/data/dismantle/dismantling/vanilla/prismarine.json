@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:prismarine"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:prismarine_shard"
+    }
+  }
+}

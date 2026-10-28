@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:chiseled_sandstone"
+  },
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:sandstone_slab"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:bone_block"
+  },
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:bone_meal"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:turtle_helmet"
+  },
+  "pattern": [
+    "AAA",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:scute"
+    }
+  }
+}

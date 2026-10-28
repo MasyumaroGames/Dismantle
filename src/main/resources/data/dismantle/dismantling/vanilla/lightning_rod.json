@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:lightning_rod"
+  },
+  "pattern": [
+    "A",
+    "A",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:copper_ingot"
+    }
+  }
+}

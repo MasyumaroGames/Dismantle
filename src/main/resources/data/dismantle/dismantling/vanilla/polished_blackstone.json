@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:polished_blackstone"
+  },
+  "input_count": 4,
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blackstone"
+    }
+  }
+}

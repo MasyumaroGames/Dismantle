@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:pumpkin_pie"
+  },
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:pumpkin"
+    },
+    "B": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "item": "minecraft:egg"
+    }
+  }
+}

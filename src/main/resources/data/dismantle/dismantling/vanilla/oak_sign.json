@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:oak_sign"
+  },
+  "input_count": 3,
+  "pattern": [
+    "AAA",
+    "AAA",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

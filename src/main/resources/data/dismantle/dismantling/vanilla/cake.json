@@ -1,0 +1,21 @@
+{
+  "input": {
+    "item": "minecraft:cake"
+  },
+  "pattern": [
+    "",
+    "ABA",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:sugar"
+    },
+    "B": {
+      "item": "minecraft:egg"
+    },
+    "C": {
+      "item": "minecraft:wheat"
+    }
+  }
+}

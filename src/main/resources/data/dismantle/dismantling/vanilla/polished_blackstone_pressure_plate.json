@@ -1,0 +1,13 @@
+{
+  "input": {
+    "item": "minecraft:polished_blackstone_pressure_plate"
+  },
+  "pattern": [
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:polished_blackstone"
+    }
+  }
+}

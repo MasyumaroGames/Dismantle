@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:beetroot_soup"
+  },
+  "pattern": [
+    "ABB",
+    "BBB",
+    "B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:bowl"
+    },
+    "B": {
+      "item": "minecraft:beetroot"
+    }
+  }
+}

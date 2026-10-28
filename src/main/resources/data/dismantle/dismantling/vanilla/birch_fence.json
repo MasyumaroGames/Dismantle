@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:birch_fence"
+  },
+  "input_count": 3,
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:birch_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "input": {
+    "item": "minecraft:firework_rocket"
+  },
+  "input_count": 3,
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gunpowder"
+    },
+    "B": {
+      "item": "minecraft:paper"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "input": {
+    "item": "minecraft:daylight_detector"
+  },
+  "pattern": [
+    "AAA",
+    "BBB",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:glass"
+    },
+    "B": {
+      "item": "minecraft:quartz"
+    },
+    "C": {
+      "item": "minecraft:oak_slab"
+    }
+  }
+}

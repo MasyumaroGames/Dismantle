@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:crimson_slab"
+  },
+  "input_count": 6,
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:crimson_planks"
+    }
+  }
+}

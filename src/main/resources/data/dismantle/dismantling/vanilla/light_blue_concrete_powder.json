@@ -1,0 +1,22 @@
+{
+  "input": {
+    "item": "minecraft:light_blue_concrete_powder"
+  },
+  "input_count": 8,
+  "pattern": [
+    "ABB",
+    "BBC",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "B": {
+      "item": "minecraft:sand"
+    },
+    "C": {
+      "item": "minecraft:gravel"
+    }
+  }
+}

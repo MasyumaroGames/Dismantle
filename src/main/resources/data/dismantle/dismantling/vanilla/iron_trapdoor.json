@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:iron_trapdoor"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    }
+  }
+}

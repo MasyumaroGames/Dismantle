@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:packed_mud"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:mud"
+    },
+    "B": {
+      "item": "minecraft:wheat"
+    }
+  }
+}

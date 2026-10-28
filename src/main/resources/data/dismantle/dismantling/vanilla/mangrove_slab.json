@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:mangrove_slab"
+  },
+  "input_count": 6,
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:mangrove_planks"
+    }
+  }
+}

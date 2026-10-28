@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:jungle_sign"
+  },
+  "input_count": 3,
+  "pattern": [
+    "AAA",
+    "AAA",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:jungle_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

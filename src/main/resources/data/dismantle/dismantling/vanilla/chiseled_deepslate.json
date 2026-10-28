@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:chiseled_deepslate"
+  },
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cobbled_deepslate_slab"
+    }
+  }
+}

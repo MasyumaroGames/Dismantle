@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:red_banner"
+  },
+  "pattern": [
+    "AAA",
+    "AAA",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:red_wool"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

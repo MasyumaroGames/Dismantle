@@ -1,0 +1,22 @@
+{
+  "input": {
+    "item": "minecraft:cyan_concrete_powder"
+  },
+  "input_count": 8,
+  "pattern": [
+    "ABB",
+    "BBC",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cyan_dye"
+    },
+    "B": {
+      "item": "minecraft:sand"
+    },
+    "C": {
+      "item": "minecraft:gravel"
+    }
+  }
+}

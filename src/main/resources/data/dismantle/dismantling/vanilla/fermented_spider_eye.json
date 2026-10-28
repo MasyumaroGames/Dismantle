@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:fermented_spider_eye"
+  },
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:spider_eye"
+    },
+    "B": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "C": {
+      "item": "minecraft:sugar"
+    }
+  }
+}

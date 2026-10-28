@@ -1,0 +1,22 @@
+{
+  "input": {
+    "item": "minecraft:soul_torch"
+  },
+  "input_count": 4,
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:coal"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "minecraft:soul_sand"
+    }
+  }
+}

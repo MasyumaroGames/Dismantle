@@ -1,0 +1,17 @@
+{
+  "input": {
+    "item": "minecraft:cookie"
+  },
+  "input_count": 8,
+  "pattern": [
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:wheat"
+    },
+    "B": {
+      "item": "minecraft:cocoa_beans"
+    }
+  }
+}

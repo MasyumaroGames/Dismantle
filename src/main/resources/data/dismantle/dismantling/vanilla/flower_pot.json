@@ -1,0 +1,14 @@
+{
+  "input": {
+    "item": "minecraft:flower_pot"
+  },
+  "pattern": [
+    "A A",
+    " A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:brick"
+    }
+  }
+}

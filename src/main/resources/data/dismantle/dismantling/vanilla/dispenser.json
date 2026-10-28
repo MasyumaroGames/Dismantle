@@ -1,0 +1,21 @@
+{
+  "input": {
+    "item": "minecraft:dispenser"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cobblestone"
+    },
+    "B": {
+      "item": "minecraft:bow"
+    },
+    "C": {
+      "item": "minecraft:redstone"
+    }
+  }
+}

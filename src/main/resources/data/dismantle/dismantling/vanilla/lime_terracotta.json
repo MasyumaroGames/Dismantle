@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:lime_terracotta"
+  },
+  "input_count": 8,
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:terracotta"
+    },
+    "B": {
+      "item": "minecraft:lime_dye"
+    }
+  }
+}

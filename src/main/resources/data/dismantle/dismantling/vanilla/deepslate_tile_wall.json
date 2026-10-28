@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:deepslate_tile_wall"
+  },
+  "input_count": 6,
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:deepslate_tiles"
+    }
+  }
+}

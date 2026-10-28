@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:white_stained_glass_pane"
+  },
+  "input_count": 16,
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:white_stained_glass"
+    }
+  }
+}

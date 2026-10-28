@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:mangrove_fence"
+  },
+  "input_count": 3,
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

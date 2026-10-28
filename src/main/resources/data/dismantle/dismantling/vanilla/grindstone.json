@@ -1,0 +1,20 @@
+{
+  "input": {
+    "item": "minecraft:grindstone"
+  },
+  "pattern": [
+    "ABA",
+    "C C"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:stone_slab"
+    },
+    "C": {
+      "item": "minecraft:oak_planks"
+    }
+  }
+}

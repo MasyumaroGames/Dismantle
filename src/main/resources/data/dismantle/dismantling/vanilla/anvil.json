@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:anvil"
+  },
+  "pattern": [
+    "AAA",
+    " B",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_block"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    }
+  }
+}

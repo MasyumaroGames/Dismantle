@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:birch_trapdoor"
+  },
+  "input_count": 2,
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:birch_planks"
+    }
+  }
+}

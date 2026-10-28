@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:redstone_lamp"
+  },
+  "pattern": [
+    " A",
+    "ABA",
+    " A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "minecraft:glowstone"
+    }
+  }
+}

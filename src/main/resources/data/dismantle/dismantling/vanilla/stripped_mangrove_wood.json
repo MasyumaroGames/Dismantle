@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:stripped_mangrove_wood"
+  },
+  "input_count": 3,
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stripped_mangrove_log"
+    }
+  }
+}

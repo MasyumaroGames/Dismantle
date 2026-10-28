@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:diorite"
+  },
+  "input_count": 2,
+  "pattern": [
+    "AB",
+    "BA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cobblestone"
+    },
+    "B": {
+      "item": "minecraft:quartz"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:furnace"
+  },
+  "pattern": [
+    "AAA",
+    "A A",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cobblestone"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:granite"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:diorite"
+    },
+    "B": {
+      "item": "minecraft:quartz"
+    }
+  }
+}

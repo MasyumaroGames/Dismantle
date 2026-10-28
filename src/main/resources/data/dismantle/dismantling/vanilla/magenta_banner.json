@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:magenta_banner"
+  },
+  "pattern": [
+    "AAA",
+    "AAA",
+    " B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:magenta_wool"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "input": {
+    "item": "minecraft:birch_pressure_plate"
+  },
+  "pattern": [
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:birch_planks"
+    }
+  }
+}

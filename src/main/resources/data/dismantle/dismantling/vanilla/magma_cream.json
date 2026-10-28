@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:magma_cream"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blaze_powder"
+    },
+    "B": {
+      "item": "minecraft:slime_ball"
+    }
+  }
+}

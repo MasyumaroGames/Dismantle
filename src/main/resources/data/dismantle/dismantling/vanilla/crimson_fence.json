@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:crimson_fence"
+  },
+  "input_count": 3,
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:crimson_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  }
+}

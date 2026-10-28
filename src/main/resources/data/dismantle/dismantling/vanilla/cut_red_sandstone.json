@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:cut_red_sandstone"
+  },
+  "input_count": 4,
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:red_sandstone"
+    }
+  }
+}

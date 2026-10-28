@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:lantern"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_nugget"
+    },
+    "B": {
+      "item": "minecraft:torch"
+    }
+  }
+}

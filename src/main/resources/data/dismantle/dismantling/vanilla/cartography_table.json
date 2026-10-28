@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:cartography_table"
+  },
+  "pattern": [
+    "AA",
+    "BB",
+    "BB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:paper"
+    },
+    "B": {
+      "item": "minecraft:oak_planks"
+    }
+  }
+}

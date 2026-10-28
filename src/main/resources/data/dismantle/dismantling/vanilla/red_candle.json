@@ -1,0 +1,16 @@
+{
+  "input": {
+    "item": "minecraft:red_candle"
+  },
+  "pattern": [
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:candle"
+    },
+    "B": {
+      "item": "minecraft:red_dye"
+    }
+  }
+}

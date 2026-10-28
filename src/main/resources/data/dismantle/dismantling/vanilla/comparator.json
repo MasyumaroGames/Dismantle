@@ -1,0 +1,21 @@
+{
+  "input": {
+    "item": "minecraft:comparator"
+  },
+  "pattern": [
+    " A",
+    "ABA",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:redstone_torch"
+    },
+    "B": {
+      "item": "minecraft:quartz"
+    },
+    "C": {
+      "item": "minecraft:stone"
+    }
+  }
+}

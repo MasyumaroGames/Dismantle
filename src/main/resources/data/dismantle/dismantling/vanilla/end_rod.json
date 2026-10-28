@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:end_rod"
+  },
+  "input_count": 4,
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blaze_rod"
+    },
+    "B": {
+      "item": "minecraft:popped_chorus_fruit"
+    }
+  }
+}

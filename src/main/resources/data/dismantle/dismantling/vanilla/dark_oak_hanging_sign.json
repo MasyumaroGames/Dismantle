@@ -1,0 +1,19 @@
+{
+  "input": {
+    "item": "minecraft:dark_oak_hanging_sign"
+  },
+  "input_count": 6,
+  "pattern": [
+    "A A",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:chain"
+    },
+    "B": {
+      "item": "minecraft:stripped_dark_oak_log"
+    }
+  }
+}

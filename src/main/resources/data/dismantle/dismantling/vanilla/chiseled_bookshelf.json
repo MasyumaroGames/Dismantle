@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:chiseled_bookshelf"
+  },
+  "pattern": [
+    "AAA",
+    "BBB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "minecraft:oak_slab"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "input": {
+    "item": "minecraft:respawn_anchor"
+  },
+  "pattern": [
+    "AAA",
+    "BBB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "B": {
+      "item": "minecraft:glowstone"
+    }
+  }
+}

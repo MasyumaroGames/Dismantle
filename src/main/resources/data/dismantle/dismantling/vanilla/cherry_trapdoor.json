@@ -1,0 +1,15 @@
+{
+  "input": {
+    "item": "minecraft:cherry_trapdoor"
+  },
+  "input_count": 2,
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cherry_planks"
+    }
+  }
+}
